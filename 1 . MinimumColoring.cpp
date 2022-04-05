@@ -1,4 +1,5 @@
 // https://www.codechef.com/START30B/problems/MINCOLOR
+// Concept used : Depth First Search
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long int
